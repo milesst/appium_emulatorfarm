@@ -1,0 +1,19 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "bsuser_6qk7xS",
+  "access_key": "ensWZ1V1sRdU2RypEie7",
+  "capabilities": {
+    "project": "First Junit5 Android Project",
+    "build": "Junit5 Android First",
+    "name": "first_test",
+    "browserstack.debug": true,
+    "app": "bs://b64d1644d200068004cf0450bf9451bbdfdd0c4c",
+    "appPackage": "ru.yandex.mail",
+    "appActivity": "ru.yandex.mail.ui.LoginActivity"
+  },
+  "environments": [{
+    "device": "Google Pixel 3",
+    "os_version":  "9.0"
+  }],
+  "url": "http://bsuser_6qk7xS:ensWZ1V1sRdU2RypEie7@hub-cloud.browserstack.com/wd/hub"
+}

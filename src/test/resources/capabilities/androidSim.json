@@ -1,0 +1,14 @@
+{
+  "appium": {
+    "capabilities": {
+      "deviceName": "Alla",
+      "udid": "R58MA12YTVE",
+      "appPackage": "ru.yandex.mail",
+      "appActivity": "ru.yandex.mail.ui.LoginActivity",
+      "platformVersion": "11.0",
+      "app": "bs://b64d1644d200068004cf0450bf9451bbdfdd0c4c"
+    },
+    "url": "http://0.0.0.0:4723/wd/hub",
+    "implicitlyWait": 10
+  }
+}
